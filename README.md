@@ -59,8 +59,44 @@ Feminergy aims to destigmatize discussions around menstruation, fight misconcept
   ```
 
 ### 6. Prototype Screen Shots
-    -1. **Feminergy Homepage**:
- ![Feminergy Homepage](./Prototype_images/Feminergy%20Homepage.png)
+  1. **Feminergy Homepage**:
+
+![Feminergy Homepage](./Prototype_images/Feminergy%20Homepage.png)
+
+  2. **Information Guides**:
+
+![Feminergy Homepage](./Prototype_images/Information%20Guides.png)
+
+  3. **Consultation Page**:
+
+![Feminergy Homepage](./Prototype_images/COnsultation%20page.png)
+
+  4. **Online Apoointment**:
+
+![Feminergy Homepage](./Prototype_images/Onlune%20consultation.png)
+
+  5. **Chatbot**:
+
+![Feminergy Homepage](./Prototype_images/Chatbot.png)
+
+  6. **Diet Plan Generator**:
+
+![Feminergy Homepage](./Prototype_images/Diet%20Plan%20Genrator.png)
+
+  7. **Sakhiya Dashboard**:
+
+![Feminergy Homepage](./Prototype_images/Sakhiya%20Dashboard.png)
+
+  8. **Feminergy Dashboard**:
+
+![Feminergy Homepage](./Prototype_images/Trackers.png)
+
+
+
+
+
+
+
 
 
 ## Contribution

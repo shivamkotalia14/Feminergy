@@ -69,7 +69,7 @@ Feminergy aims to destigmatize discussions around menstruation, fight misconcept
 
   3. **Consultation Page**:
 
-![Feminergy Homepage](./Prototype_images/COnsultation%20page.png)
+![Feminergy Homepage](./Prototype_images/Consultation%20page.png)
 
   4. **Online Apoointment**:
 

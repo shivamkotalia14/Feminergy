@@ -1,0 +1,50 @@
+.treatment_heading{
+    font-size: 40px;
+    padding-bottom: 5%;
+}
+
+.treatmentpage_body{
+    padding-left: 13%;
+    padding-right: 13%;
+    padding-top: 8%;
+    padding-bottom: 8%;
+    background-color:  rgb(251, 244, 243);
+    box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    padding: 10%;
+    font-size: 20px;
+    margin: 8%;
+    color:rgb(50, 49, 49);
+}
+
+.treatmentpage_h2{
+    font-family: montserrat;
+    text-align: left;
+    font-size: 28px;
+    word-spacing: 1px;
+    letter-spacing: 0.3px;
+    padding-bottom: 3%;
+}
+
+.treatmentpage_ul, .treatmentpage_ul1, .treatmentpage_li1, .treatmentpage_li ,.treatmentpage_p{
+    font-family: montserrat;
+    text-align: left;
+    font-size: 23px;
+    word-spacing: 1px;
+    letter-spacing: 0.3px;
+}
+
+.treatmentpage_ul1, .treatmentpage_li1{
+    list-style-type: circle;
+    padding-left: 2%;
+}
+
+.treatmentpage_h3{
+    font-family: montserrat;
+    text-align: left;
+    font-size: 26px;
+    word-spacing: 1px;
+    letter-spacing: 0.3px;
+    padding-top: 5%;
+    padding-bottom: 3%;
+}

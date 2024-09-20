@@ -1,0 +1,2 @@
+import chromedriver_autoinstaller as chromedriver
+chromedriver.install()

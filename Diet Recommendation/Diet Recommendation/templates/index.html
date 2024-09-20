@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Info Form</title>
+    <link rel="stylesheet" href="../static/css/style.css">
+</head>
+<body>
+    <form id="form" enctype="multipart/form-data" class="user-info-form">
+        <label for="age">Age:</label>
+        <input type="text" id="age" name="age" required><br><br>
+
+        <label for="gender">Gender:</label>
+        <select id="gender" name="gender" required>
+            <option value="male">Male</option>
+            <option value="female">Female</option>
+        </select><br><br>
+
+        <label for="weight">Weight:</label>
+        <input type="text" id="weight" name="weight" required><br><br>
+
+        <label for="height">Height:</label>
+        <input type="text" id="height" name="height" required><br><br>
+
+        {# <label for="lifestyle">Lifestyle:</label>
+        <input type="text" id="lifestyle" name="lifestyle" required><br><br> #}
+        <label for="lifestyle">Lifestyle</label>
+        <select id="lifestyle" name="lifestyle" required>
+            <option value="Sedentary">Sedentary</option>
+            <option value="Lightly Active">Lightly active</option>
+            <option value="Very Active">Very active</option>
+            <option value="Moderately Active">Moderately active</option>
+            <option value="Extra Active">Extra active</option>
+
+        </select><br><br>
+
+        <label for="need">Need:</label>
+        <select id="need" name="need" required>
+            <option value="Lose Weight">Lose Weight</option>
+            <option value="Gain Weight">Gain Weight</option>
+            <option value="Maintain Weight">Maintain Weight</option>
+        </select><br><br>
+
+        <input type="submit" value="Submit" class="submit-button">
+    </form>
+    <div id="ans" style="display:none;">
+    </div>
+    <script type="module" src="../static/js/submit.js"></script>
+</body>
+</html>

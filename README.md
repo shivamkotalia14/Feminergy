@@ -59,8 +59,7 @@ Feminergy aims to destigmatize discussions around menstruation, fight misconcept
   ```
 
 ### 6. Prototype Screen Shots
-  -**Feminergy Home Page:-
-    ![Feminergy Homepage](./Prototype_images/Feminergy Homepage.png)
+ ![Feminergy Homepage](./Prototype_images/Feminergy%20Homepage.png)
 
 
 ## Contribution
